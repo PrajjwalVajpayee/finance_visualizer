@@ -5,8 +5,9 @@ A sleek and responsive web application to **track personal expenses**, **visuali
 ---
 
 ## 🖼️ Preview
-
+HOME PAGE
 ![Home Page](./client/public/home-preview.png)  
+DASHBOARD PAGE
 ![Dashboard](./client/public/dashboard-preview.png)
 
 ---
@@ -29,14 +30,14 @@ Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
 
 ---
 
-## 📦 Features
+##  Features
 
 ### ✅ Stage 1: Basic Transaction Tracking
 
 - Add / Edit / Delete transactions
 - Monthly expenses bar chart
 - Form validations
-- Clean, dark-mode UI with glassmorphism ✨
+
 
 ### ✅ Stage 2: Categories & Dashboard
 
@@ -50,24 +51,7 @@ Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
 
 ---
 
-## 📁 Folder Structure
 
-finance_visualizer/
-│
-├── client/ # React frontend
-│ ├── components/
-│ ├── pages/
-│ ├── lib/
-│ ├── App.jsx
-│ └── ...
-│
-├── server/ # Express backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-
----
 
 ## 🔧 Setup Instructions
 
