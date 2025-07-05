@@ -6,8 +6,8 @@ A sleek and responsive web application to **track personal expenses**, **visuali
 
 ## 🖼️ Preview
 
-![Home Page](./public/home-preview.png)  
-![Dashboard](./public/dashboard-preview.png)
+![Home Page](./client/public/home-preview.png)  
+![Dashboard](./client/public/dashboard-preview.png)
 
 ---
 
