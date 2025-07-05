@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",         // tells VSCode/Vite where root is
+    "paths": {
+      "@/*": ["src/*"]      // so you can use @/components/Button etc.
+    }
+  },
+  "include": ["src"]
+}
